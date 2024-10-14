@@ -16,6 +16,6 @@ hero:
 features:
   - title: User
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-    link: /user
+    link: /user1
 ---
 
